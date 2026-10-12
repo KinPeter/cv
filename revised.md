@@ -3,7 +3,7 @@
 ### Senior Frontend / Full-stack Software Engineer
 
 Budapest, Hungary · +36 70 532 0534 · [kinpeter85@gmail.com](mailto:kinpeter85@gmail.com)  
-[p-kin.com](https://www.p-kin.com) · [GitHub](https://github.com/KinPeter)
+[p-kin.com](https://www.p-kin.com) · [GitHub](https://github.com/KinPeter) · [LinkedIn](https://www.linkedin.com/in/peter-kin)
 
 ## Profile
 
@@ -14,7 +14,7 @@ Senior software engineer with 7+ years of professional experience building web a
 ### Senior Software Engineer · EPAM Systems
 *Sep 2025 – Present · Budapest, Hungary*
 
-- Developed the code-review component of a team-built, multi-agent software delivery workflow spanning Jira tickets, planning, development, review and pull requests. Integrated my [review-agents](https://github.com/KinPeter/review-agents) CLI to coordinate specialized review passes and consolidate findings.
+- Developed the code-review component of a team-built, multi-agent software delivery workflow spanning Jira tickets, planning, development, review and pull requests.
 - Used Claude Code and custom skills to support AI-assisted development and review workflows.
 - Developed and tested features for an investments, trading and portfolio-management platform using Angular, React and Node.js.
 
@@ -29,17 +29,19 @@ Senior software engineer with 7+ years of professional experience building web a
 *Aug 2019 – Jul 2022 · Budapest, Hungary*
 
 - Built frontend and backend features for greenfield and established web applications as part of 6–10-person development teams.
-- Worked on a nursing-home management application, the Museum of Ethnography's “1000 Motifs” web app and an agricultural laboratory management application. [More project details](https://www.p-kin.com/experience).
+- Worked on a nursing-home management application, the Museum of Ethnography's “1000 Motifs” web app and an agricultural laboratory management application.
 
-## Personal Projects
+[More about my professional experience across these roles](https://www.p-kin.com/experience).
 
-- **[PK Central MCP](https://github.com/KinPeter/pk-central-mcp)** — Built a TypeScript MCP server connecting AI assistants to my personal API, with stdio and HTTP transports and authenticated access for the HTTP endpoint.
-- **[Image Generation AI Tools](https://github.com/KinPeter/img-gen-ai-tools)** — Built a Node.js CLI to automate batch image generation through ComfyUI, using either a local backend or a RunPod cloud GPU.
+## Selected Personal Projects
+
+- **[PK Central MCP](https://github.com/KinPeter/pk-central-mcp)** — Developing a TypeScript MCP server that connects AI assistants to my personal API, with stdio and HTTP transports and authenticated access for the HTTP endpoint.
+- **[Image Generation AI Tools](https://github.com/KinPeter/img-gen-ai-tools)** — Developing a Node.js CLI that automates batch image generation through ComfyUI, using either a local backend or a RunPod cloud GPU.
 
 ## Skills
 
 - **Frontend:** TypeScript, JavaScript, Angular, React, HTML, CSS/SCSS
-- **Backend:** Node.js, Python, REST APIs
+- **Backend:** Node.js, REST APIs; working knowledge of Python
 - **AI-assisted development:** Claude Code, OpenCode, agent workflows, custom skills, Model Context Protocol (MCP)
 - **Testing & delivery:** Unit, end-to-end and API testing; Playwright, Jest, Git, Docker, CI/CD
 
