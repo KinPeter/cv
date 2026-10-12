@@ -163,7 +163,6 @@ li::marker { color: var(--blue); }
   text-transform: uppercase;
 }
 
-.continued { margin-top: 6mm; }
 .project-list a { font-weight: 700; }
 .skill-list, .plain-list { list-style: none; padding-left: 0; }
 .skill-list li, .plain-list li { padding-left: 0; }
