@@ -12,21 +12,24 @@ Senior software engineer with 7+ years of professional experience building web a
 ## Professional Experience
 
 ### Senior Software Engineer · EPAM Systems
-*Sep 2025 – Present · Budapest, Hungary*
+
+_Sep 2025 – Present · Budapest, Hungary_
 
 - Developed the code-review component of a team-built, multi-agent software delivery workflow spanning Jira tickets, planning, development, review and pull requests.
 - Used Claude Code and custom skills to support AI-assisted development and review workflows.
 - Developed and tested features for an investments, trading and portfolio-management platform using Angular, React and Node.js.
 
 ### Senior Software Development Engineer · Genesys Cloud
-*Aug 2022 – Sep 2025 · Budapest, Hungary*
+
+_Aug 2022 – Sep 2025 · Budapest, Hungary_
 
 - Developed frontend features for a cloud customer-service platform using Angular and React, working within a multinational engineering team.
 - Led frontend feature planning and refinement; contributed end-to-end, unit and API acceptance tests using JavaScript, Java and Python, as well as technical documentation for releases.
 - Mentored interns and junior developers.
 
 ### Frontend / Full-stack Web Developer · MOON42 RDI Ltd.
-*Aug 2019 – Jul 2022 · Budapest, Hungary*
+
+_Aug 2019 – Jul 2022 · Budapest, Hungary_
 
 - Built frontend and backend features for greenfield and established web applications as part of 6–10-person development teams.
 - Worked on a nursing-home management application, the Museum of Ethnography's “1000 Motifs” web app and an agricultural laboratory management application.
@@ -42,7 +45,7 @@ Senior software engineer with 7+ years of professional experience building web a
 
 - **Frontend:** TypeScript, JavaScript, Angular, React, HTML, CSS/SCSS
 - **Backend:** Node.js, REST APIs; working knowledge of Python
-- **AI-assisted development:** Claude Code, OpenCode, agent workflows, custom skills, Model Context Protocol (MCP)
+- **AI-assisted development:** Claude Code, OpenCode, agentic workflows, custom agents, custom skills, Model Context Protocol (MCP)
 - **Testing & delivery:** Unit, end-to-end and API testing; Playwright, Jest, Git, Docker, CI/CD
 
 ## Education
@@ -52,7 +55,8 @@ Senior software engineer with 7+ years of professional experience building web a
 
 ## Earlier Experience
 
-Before moving into software engineering, worked in travel, customer service and team leadership roles, including Leisure Team Leader and Travel Consultant at JTB Hungary (2013–2019).
+- **Travel & tourism:** At JTB Hungary, progressed from Travel Consultant to Leisure Team Leader, with responsibility for leisure product development and work with international B2B customers. Previously a Travel Consultant at Vista Utazási Irodák.
+- **Airport operations:** Worked in passenger check-in and customer service at Malév Ground Handling, Menzies Aviation Hungary and SkyEurope Airlines.
 
 ## Languages
 
